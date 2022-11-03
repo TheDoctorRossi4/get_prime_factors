@@ -1,2 +1,2 @@
-# advanced-testing-techniques
-This is a repo for doing advanced testing
+# Get Prime Factors
+This is a code to get prime factors of an input number
